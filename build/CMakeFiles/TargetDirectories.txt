@@ -1,0 +1,4 @@
+/root/Project/FED/build/CMakeFiles/main.dir
+/root/Project/FED/build/CMakeFiles/psi_test.dir
+/root/Project/FED/build/CMakeFiles/edit_cache.dir
+/root/Project/FED/build/CMakeFiles/rebuild_cache.dir

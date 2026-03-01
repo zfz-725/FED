@@ -1,0 +1,67 @@
+Party A index: 0, Party B index: 0
+Party A text: 机器学习是人工智能的核心技术
+Party B text: 机器学习是人工智能的核心技术
+Similarity: 1
+Similarity threshold: 0.8
+---
+Party A index: 1, Party B index: 1
+Party A text: 隐私保护在联邦学习中至关重要
+Party B text: 隐私保护在联邦学习中至关重要
+Similarity: 1
+Similarity threshold: 0.8
+---
+Party A index: 2, Party B index: 2
+Party A text: 数据去重能够有效减少存储成本
+Party B text: 数据去重能够有效减少存储成本
+Similarity: 1
+Similarity threshold: 0.8
+---
+Party A index: 3, Party B index: 3
+Party A text: 神经网络已经彻底改变了人工智能
+Party B text: 神经网络已经彻底改变了人工智能
+Similarity: 1
+Similarity threshold: 0.8
+---
+Party A index: 4, Party B index: 4
+Party A text: 自然语言处理让计算机理解人类语言
+Party B text: 自然语言处理让计算机理解人类语言
+Similarity: 1
+Similarity threshold: 0.8
+---
+Party A index: 5, Party B index: 5
+Party A text: 联邦学习实现了多方协作模型训练
+Party B text: 联邦学习实现了多方协作模型训练
+Similarity: 1
+Similarity threshold: 0.8
+---
+Party A index: 7, Party B index: 7
+Party A text: 梯度下降优化最小化损失函数
+Party B text: 梯度下降优化最小化损失函数
+Similarity: 1
+Similarity threshold: 0.8
+---
+Party A index: 8, Party B index: 8
+Party A text: 卷积神经网络在图像识别方面表现出色
+Party B text: 卷积神经网络在图像识别方面表现出色
+Similarity: 1
+Similarity threshold: 0.8
+---
+Party A index: 10, Party B index: 11
+Party A text: 云计算
+Party B text: 云计算
+Similarity: 1
+Similarity threshold: 0.8
+---
+Party A index: 23, Party B index: 23
+Party A text: 错误代码：404 - 未找到文件路径：/路径/到/资源
+Party B text: 错误代码：404 - 未找到文件路径：/路径/到/资源
+Similarity: 1
+Similarity threshold: 0.8
+---
+Party A index: 24, Party B index: 24
+Party A text: 用户ID：12345 | 时间戳：2024-01-15 14:30:00 | 操作：登录
+Party B text: 时间戳：2024-01-15 14:30:00 | 用户ID：12345 | 操作：登录成功
+Similarity: 0.921875
+Similarity threshold: 0.8
+---
+Total candidate pairs found: 11
