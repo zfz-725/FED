@@ -1,0 +1,61 @@
+Party A index: 0, Party B index: 0
+Party A text: Hello world, this is test file 1
+Party B text: Hello world, this is test file 2
+Similarity: 0.875
+Similarity threshold: 0.6
+---
+Party A index: 0, Party B index: 2
+Party A text: Hello world, this is test file 1
+Party B text: Hello world, this is test file 1 again
+Similarity: 0.726562
+Similarity threshold: 0.6
+---
+Party A index: 0, Party B index: 4
+Party A text: Hello world, this is test file 1
+Party B text: Hello world, this is test file 2
+Similarity: 0.875
+Similarity threshold: 0.6
+---
+Party A index: 1, Party B index: 1
+Party A text: This is line 2 of test file 1
+Party B text: This is line 2 of test file 2
+Similarity: 0.789062
+Similarity threshold: 0.6
+---
+Party A index: 2, Party B index: 0
+Party A text: Hello world, this is test file 1 again
+Party B text: Hello world, this is test file 2
+Similarity: 0.710938
+Similarity threshold: 0.6
+---
+Party A index: 2, Party B index: 2
+Party A text: Hello world, this is test file 1 again
+Party B text: Hello world, this is test file 1 again
+Similarity: 1
+Similarity threshold: 0.6
+---
+Party A index: 2, Party B index: 4
+Party A text: Hello world, this is test file 1 again
+Party B text: Hello world, this is test file 2
+Similarity: 0.710938
+Similarity threshold: 0.6
+---
+Party A index: 4, Party B index: 0
+Party A text: Hello world, this is test file 1
+Party B text: Hello world, this is test file 2
+Similarity: 0.875
+Similarity threshold: 0.6
+---
+Party A index: 4, Party B index: 2
+Party A text: Hello world, this is test file 1
+Party B text: Hello world, this is test file 1 again
+Similarity: 0.726562
+Similarity threshold: 0.6
+---
+Party A index: 4, Party B index: 4
+Party A text: Hello world, this is test file 1
+Party B text: Hello world, this is test file 2
+Similarity: 0.875
+Similarity threshold: 0.6
+---
+Total candidate pairs found: 10

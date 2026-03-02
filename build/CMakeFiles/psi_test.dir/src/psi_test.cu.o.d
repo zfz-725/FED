@@ -306,6 +306,9 @@ CMakeFiles/psi_test.dir/src/psi_test.cu.o : /root/Project/FED/src/psi_test.cu \
     /usr/include/c++/11/ext/aligned_buffer.h \
     /usr/include/c++/11/bits/fs_dir.h \
     /usr/include/c++/11/bits/fs_ops.h \
+    /root/miniconda3/envs/fed_env/include/mpi.h \
+    /root/miniconda3/envs/fed_env/include/mpi_proto.h \
+    /root/miniconda3/envs/fed_env/include/mpicxx.h \
     /root/Project/FED/src/psi.h \
     /usr/include/c++/11/vector \
     /usr/include/c++/11/bits/stl_uninitialized.h \

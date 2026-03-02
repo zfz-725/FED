@@ -1,0 +1,61 @@
+Party A index: 0, Party B index: 0
+Party A text: Hello world, this is a test
+Party B text: Hello world, this is a test
+Similarity: 1
+Similarity threshold: 0.6
+---
+Party A index: 0, Party B index: 2
+Party A text: Hello world, this is a test
+Party B text: Hello world, this is a test again
+Similarity: 0.898438
+Similarity threshold: 0.6
+---
+Party A index: 0, Party B index: 4
+Party A text: Hello world, this is a test
+Party B text: Hello world, this is a test
+Similarity: 1
+Similarity threshold: 0.6
+---
+Party A index: 2, Party B index: 0
+Party A text: Hello world, this is a test again
+Party B text: Hello world, this is a test
+Similarity: 0.898438
+Similarity threshold: 0.6
+---
+Party A index: 2, Party B index: 2
+Party A text: Hello world, this is a test again
+Party B text: Hello world, this is a test again
+Similarity: 1
+Similarity threshold: 0.6
+---
+Party A index: 2, Party B index: 4
+Party A text: Hello world, this is a test again
+Party B text: Hello world, this is a test
+Similarity: 0.898438
+Similarity threshold: 0.6
+---
+Party A index: 3, Party B index: 3
+Party A text: Test line number four
+Party B text: Test line number five
+Similarity: 0.796875
+Similarity threshold: 0.6
+---
+Party A index: 4, Party B index: 0
+Party A text: Hello world, this is a test
+Party B text: Hello world, this is a test
+Similarity: 1
+Similarity threshold: 0.6
+---
+Party A index: 4, Party B index: 2
+Party A text: Hello world, this is a test
+Party B text: Hello world, this is a test again
+Similarity: 0.898438
+Similarity threshold: 0.6
+---
+Party A index: 4, Party B index: 4
+Party A text: Hello world, this is a test
+Party B text: Hello world, this is a test
+Similarity: 1
+Similarity threshold: 0.6
+---
+Total candidate pairs found: 10
